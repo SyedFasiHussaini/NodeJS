@@ -13,6 +13,11 @@ var getSquareOfArrayElements = (arr) => {
     }
     return squareOfElements;
 }
-var myArray = null;
+
+// var myArray = [];
+var myArray = [10, 20, 30, 40];
+// var myArray = [0];
+// var myArray = null;
+
 var result = getSquareOfArrayElements(myArray);
 console.log(`The square of the given array [${myArray}] = [${result}].`);
