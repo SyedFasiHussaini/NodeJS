@@ -1,0 +1,6 @@
+NodeJS is a server side scripting language.
+NodeJS is a single threaded lang.
+NodeJS is extremely fast and scalable.
+My name is Syed Fasiullah Hussaini
+I'm learning NodeJs
+Files Read and Write OperationsThese are the contents of file 3.
